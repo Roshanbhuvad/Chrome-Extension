@@ -1,7 +1,7 @@
 # Chrome-Extension
 # Budget Manager : This extension tracks your overall spending
 
-# Budget Manager Chrome Extension
+# Budget Manager chrome Extension
 <img src="Extension images/Icon_visible.JPG">
 
 
@@ -16,4 +16,4 @@
 
 # Context Menu
 
-<img src="Extension images/contextMenu.PNG">
+<img src="Extension images/contextMenu.png">
